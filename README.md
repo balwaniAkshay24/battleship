@@ -1,2 +1,2 @@
 # battleship
-The code is a small execution of the game using C language. Hope you have fun!
+The code is a execution of the game using C language. Hope you have fun!
